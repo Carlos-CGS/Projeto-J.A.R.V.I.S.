@@ -43,3 +43,6 @@ Este projeto está licenciado sob a [MIT License]
 ## Contato
 
 - **LinkedIn:** [Carlos Garcia - CGS](https://www.linkedin.com/in/carlos-cgs/)
+
+  ## Projeto Funcionando
+  Segue o link para uma postagem que fiz no meu LinkedIn com video deste aplicativo funcionando: https://www.linkedin.com/feed/update/urn:li:activity:7241385354061058048/
