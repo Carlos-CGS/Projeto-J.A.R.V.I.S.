@@ -28,7 +28,7 @@ O J.A.R.V.I.S. é um assistente virtual inspirado no famoso assistente do Homem 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/jarvis-assistente.git
+    git clone https://github.com/Carlos-CGS/Projeto-J.A.R.V.I.S.git
     ```
 
 
